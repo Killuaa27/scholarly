@@ -106,22 +106,17 @@ Just run `scholarly.use_proxy()`. Parameters are an http and an https proxy.
 ```
 
 ## Installation
-Use `pip` to install from pypi:
+
+`pip` to install from github:
 
 ```bash
-pip install scholarly
-```
-
-or `pip` to install from github:
-
-```bash
-pip install git+https://github.com/OrganicIrradiation/scholarly.git
+pip install git+https://github.com/Killuaa27/scholarly.git
 ```
 
 or clone the package using git:
 
 ```bash
-git clone https://github.com/OrganicIrradiation/scholarly.git
+git clone https://github.com/Killuaa27/scholarly.git
 ```
 
 
